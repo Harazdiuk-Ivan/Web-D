@@ -48,17 +48,17 @@
 }
 
 .first {
- background-color: blue;
+ background-color: rgb(255, 0, 0);
  color: white;
 }
 
 .second {
- background-color: purple;
+ background-color: rgb(255, 230, 0);
  color: white;
 }
 
 .third {
- background-color: coral;
+ background-color: rgb(118, 0, 253);
  color: white;
 }
 
