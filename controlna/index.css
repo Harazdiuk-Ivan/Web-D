@@ -68,7 +68,7 @@ h1{
     
 } 
 .block4{
-    background-color: wheat; 
+    background-color: rgb(7, 129, 68); 
     display: flex;
     margin: 1px;
     border: 1px solid black; 
@@ -104,10 +104,10 @@ h1{
     width: 100px;
 } 
 li{
-    color: blueviolet;
+    color: rgb(0, 26, 255);
 } 
 th,td{
-    color: chartreuse
+    color: rgb(229, 255, 0)
 } 
 
  @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');  
