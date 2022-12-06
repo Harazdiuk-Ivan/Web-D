@@ -38,11 +38,10 @@ h1{
 
 }  
 
-.rw {
-    display: flex; 
-    text-align: left;
-
-}
+.rw{ 
+    display: flex;
+    flex-wrap: wrap;
+ }
 .block1{
     background-color: rgb(255, 0, 0); 
     margin: 1px;
