@@ -48,6 +48,10 @@ h1{
     margin: 1px;
     border: 1px solid black; 
     width: 400px; 
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+   
+
 
 
 } 
@@ -57,6 +61,8 @@ h1{
     margin: 1px;
     border: 1px solid black;  
     width: 400px; 
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
    
 } 
 .block3{
@@ -65,6 +71,8 @@ h1{
     margin: 1px;
     border: 1px solid black;  
     width: 400px; 
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
     
 } 
 .block4{
@@ -73,6 +81,8 @@ h1{
     margin: 1px;
     border: 1px solid black; 
     width: 400px; 
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
 } 
 .nam1{  
     background-color: rgb(217, 255, 0);
@@ -109,18 +119,3 @@ li{
 th,td{
     color: rgb(229, 255, 0)
 } 
-
- @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');  
- h3{
-    font-family: 'Roboto Condensed', sans-serif;
- }  
- @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
- h4{  
-    font-family: 'Lobster', sans-serif;
-    
- } 
- @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-
- .p,li,th,td{
-    font-family: 'Pacifico', sans-serif;
- }
