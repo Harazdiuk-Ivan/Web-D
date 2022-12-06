@@ -1,47 +1,36 @@
 @media (min-width: 1200px) {
-
     .col-lg-3 {
         width: 25%;
     }
-
 }
-
 @media (min-width: 992px) and (max-width: 1199){
-
     .col-md-4 {
         width: 33.33%;
     }
-
     .col-md-12 {
         width: 100%;
     }
 }
-
 @media (min-width: 768px) and (max-width: 991){
-
     .col-md-sm-6 {
         width: 50%;
     }
 }
-
 @media (max-width: 767){
     .col-sm-12{
         width: 100%;
     }
 }
-
 h1{ 
     font-family: 'Playfair Display', serif;
     font-size: 24px;   
     text-align: center;
-
-
 }  
-
 .rw{ 
     display: flex;
     flex-wrap: wrap;
  }
+
 .block1{
     background-color: rgb(255, 0, 0); 
     margin: 1px;
@@ -51,6 +40,7 @@ h1{
 flex-direction: column-reverse;
 flex-wrap: wrap;
 } 
+
 .block2{
     background-color: rgb(251, 255, 0); 
     margin: 1px;
@@ -60,6 +50,7 @@ flex-wrap: wrap;
 flex-direction: column-reverse;
 flex-wrap: wrap;
 } 
+
 .block3{
     background-color: rgb(255, 0, 191); 
     margin: 1px;
@@ -69,6 +60,7 @@ flex-wrap: wrap;
 flex-direction: column-reverse;
 flex-wrap: wrap;
 } 
+
 .block4{
     background-color: rgb(81, 255, 0); 
     margin: 1px;
@@ -78,13 +70,13 @@ flex-wrap: wrap;
 flex-direction: column-reverse;
 flex-wrap: wrap;
 } 
+
 .nam1{  
     background-color: rgb(217, 255, 0);
     display: block;
     margin: 1px;
     border: 1px solid black; 
     width: 100px;
-
 } 
 .nam2{ 
     background-color: rgb(0, 255, 191);
