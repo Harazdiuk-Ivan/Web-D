@@ -49,6 +49,7 @@ flex-wrap: wrap;
   display: flex;
 flex-direction: column-reverse;
 flex-wrap: wrap;
+flex-basis: 20%;
 } 
 
 .block3{
