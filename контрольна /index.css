@@ -4,3 +4,21 @@
     margin: 1px;
     border: 1px solid black;
 } 
+.blok2{
+    background-color: rgb(236, 181, 108);
+    display: block;
+    margin: 1px;
+    border: 1px solid black;
+} 
+.blok3{
+    background-color: rgb(255, 145, 0);
+    display: block;
+    margin: 1px;
+    border: 1px solid black;
+} 
+.blok4{
+    background-color: rgb(229, 250, 0);
+    display: block;
+    margin: 1px;
+    border: 1px solid black;
+} 
