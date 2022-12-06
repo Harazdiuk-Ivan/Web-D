@@ -108,6 +108,16 @@ flex-wrap: wrap;
     border: 1px solid black; 
     width: 100px;
 } 
+
+th,td{
+    color: chartreuse
+} 
+
+ h3{
+    font-family: 'Playfair Display', serif;
+ }  
+ h4{  
+    font-family: 'Playfair Display', serif;
 li{
     color: rgb(0, 26, 255);
 } 
