@@ -44,45 +44,39 @@ h1{
 }
 .block1{
     background-color: rgb(255, 0, 0); 
-    display: flex;
     margin: 1px;
-    border: 1px solid black; 
-    width: 400px; 
-    flex-direction: column-reverse;
-    flex-wrap: wrap;
-   
-
-
-
+    border: 1px solid black;  
+    display: flexbox;
+  display: flex;
+flex-direction: column-reverse;
+flex-wrap: wrap;
 } 
 .block2{
-    background-color: rgb(217, 255, 0); 
-    display: flex;
+    background-color: rgb(251, 255, 0); 
     margin: 1px;
     border: 1px solid black;  
-    width: 400px; 
-    flex-direction: column-reverse;
-    flex-wrap: wrap;
-   
+    display: flexbox;
+  display: flex;
+flex-direction: column-reverse;
+flex-wrap: wrap;
 } 
 .block3{
-    background-color: rgb(255, 0, 200); 
-    display: flex;
+    background-color: rgb(255, 0, 191); 
     margin: 1px;
     border: 1px solid black;  
-    width: 400px; 
-    flex-direction: column-reverse;
-    flex-wrap: wrap;
-    
+    display: flexbox;
+  display: flex;
+flex-direction: column-reverse;
+flex-wrap: wrap;
 } 
 .block4{
-    background-color: rgb(7, 129, 68); 
-    display: flex;
+    background-color: rgb(81, 255, 0); 
     margin: 1px;
-    border: 1px solid black; 
-    width: 400px; 
-    flex-direction: column-reverse;
-    flex-wrap: wrap;
+    border: 1px solid black;  
+    display: flexbox;
+  display: flex;
+flex-direction: column-reverse;
+flex-wrap: wrap;
 } 
 .nam1{  
     background-color: rgb(217, 255, 0);
@@ -119,3 +113,4 @@ li{
 th,td{
     color: rgb(229, 255, 0)
 } 
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
