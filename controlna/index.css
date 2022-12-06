@@ -43,7 +43,7 @@ h1{
 
 }
 .block1{
-    background-color: blue; 
+    background-color: rgb(255, 0, 0); 
     display: flex;
     margin: 1px;
     border: 1px solid black; 
@@ -52,7 +52,7 @@ h1{
 
 } 
 .block2{
-    background-color: aqua; 
+    background-color: rgb(217, 255, 0); 
     display: flex;
     margin: 1px;
     border: 1px solid black;  
@@ -60,7 +60,7 @@ h1{
    
 } 
 .block3{
-    background-color: salmon; 
+    background-color: rgb(255, 0, 200); 
     display: flex;
     margin: 1px;
     border: 1px solid black;  
