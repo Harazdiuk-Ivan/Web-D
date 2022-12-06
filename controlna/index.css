@@ -1,42 +1,126 @@
-.blok1{
-    background-color: antiquewhite;
+@media (min-width: 1200px) {
+
+    .col-lg-3 {
+        width: 25%;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199){
+
+    .col-md-4 {
+        width: 33.33%;
+    }
+
+    .col-md-12 {
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991){
+
+    .col-md-sm-6 {
+        width: 50%;
+    }
+}
+
+@media (max-width: 767){
+    .col-sm-12{
+        width: 100%;
+    }
+}
+
+h1{ 
+    font-size: 24px;   
+    text-align: center;
+
+
+}  
+
+.rw {
+    display: flex; 
+    text-align: left;
+
+}
+.block1{
+    background-color: blue; 
     display: flex;
     margin: 1px;
-    border: 1px solid black;
+    border: 1px solid black; 
+    width: 400px; 
+
+
 } 
-.blok2{
-    background-color: rgb(236, 181, 108);
+.block2{
+    background-color: aqua; 
     display: flex;
     margin: 1px;
-    border: 1px solid black;
+    border: 1px solid black;  
+    width: 400px; 
+   
 } 
-.blok3{
-    background-color: rgb(255, 145, 0);
+.block3{
+    background-color: salmon; 
     display: flex;
     margin: 1px;
-    border: 1px solid black;
+    border: 1px solid black;  
+    width: 400px; 
+    
 } 
-.blok4{
-    background-color: rgb(229, 250, 0);
+.block4{
+    background-color: wheat; 
     display: flex;
     margin: 1px;
-    border: 1px solid black;
+    border: 1px solid black; 
+    width: 400px; 
 } 
-.tx1{
-    background-color: rgb(0, 4, 235);
+.nam1{  
+    background-color: blanchedalmond;
     display: block;
     margin: 1px;
-    border: 1px solid black;
-}
-.tx2{
-    background-color: rgb(216, 0, 235);
+    border: 1px solid black; 
+    width: 100px;
+
+} 
+.nam2{ 
+    background-color: magenta;
     display: block;
     margin: 1px;
-    border: 1px solid black;
-}
-.tx3{
-    background-color: rgb(235, 0, 0);
+    border: 1px solid black;  
+    width: 100px;
+} 
+.nam3{
+    background-color: red;
     display: block;
     margin: 1px;
-    border: 1px solid black;
-}
+    border: 1px solid black; 
+    width: 100px;
+} 
+.nam4{
+    background-color: green;
+    display: block;
+    margin: 1px;
+    border: 1px solid black; 
+    width: 100px;
+} 
+li{
+    color: blueviolet;
+} 
+th,td{
+    color: chartreuse
+} 
+
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');  
+ h3{
+    font-family: 'Roboto Condensed', sans-serif;
+ }  
+ @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+ h4{  
+    font-family: 'Lobster', cursive;
+    
+ } 
+ @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+ .p,li,th,td{
+    font-family: 'Pacifico', cursive;
+ }
